@@ -1,3 +1,7 @@
+import 'primevue/resources/themes/fluent-light/theme.css'
+import 'primeicons/primeicons.css'
+import 'primeflex/primeflex.css'
+
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import PrimeVue from 'primevue/config'
